@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "Dual Component Model of Mass Gravity and Spatial Twist Stress Gravity"
+type: dataset
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    email: janefather@gmail.com
+version: "0.4"
+date-released: 2026-09-27
+repository: "https://github.com/Wonsik-Choi-janefather/wrra-dual-component-gravity"
+license: CC-BY-4.0
+keywords:
+  - WRRA
+  - mass gravity
+  - spatial twist stress
+  - MOND
+  - SPARC
+  - galaxy dynamics
+  - cosmology
+abstract: >-
+  A WRRA dual-component model that decomposes observed gravity into direct
+  baryonic mass gravity and an additional component associated with stress
+  stored in spatial twist and deformation. The model connects cosmological
+  inputs to the galactic low-acceleration scale and states explicit
+  cross-scale falsification conditions.
+preferred-citation:
+  type: article
+  title: "Dual Component Model of Mass Gravity and Spatial Twist Stress Gravity: A WRRA Reinterpretation of the MOND Low-Acceleration Relation and Its Cosmological Extrapolation"
+  authors:
+    - family-names: Choi
+      given-names: Wonsik
+  year: 2026
+  month: 9
+  version: "0.4"
+  url: "https://github.com/Wonsik-Choi-janefather/wrra-dual-component-gravity"
